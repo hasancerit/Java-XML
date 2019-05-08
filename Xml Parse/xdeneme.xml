@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sinav>
+	<title>Matematik Dersi 2. Ara Sınavı </title>
+	<question number="1">
+		<text>İki kere iki iki kaç eder?</text>
+		<sika>2</sika>
+		<sikb>3</sikb>
+		<sikc>4</sikc>
+		<sikd>5</sikd>	
+	</question>
+	<question number="2">
+		<text>Kendimi kendimden çıkarsam kaç kalır?</text>
+		<sika>1</sika>
+		<sikb>0</sikb>
+		<sikc>2</sikc>
+		<sikd>fd</sikd>		
+	</question>
+</sinav>
+
